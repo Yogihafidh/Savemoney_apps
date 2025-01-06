@@ -1,16 +1,7 @@
-# Project Aplikasi Catatan Keuangan
-
-## Anggota Kelompok
-- Ricky Revanando (2211104047)
-- Yogi Hafidh M. (2211104061)
-- Ganesha R. Gibran (221110458)
-- Irfan Muria (221110475)
-- Satria Ariq A. D. (221110433)
-
-## Deskripsi Proyek
+# Savemoney Apps
 Aplikasi Catatan Keuangan ini dibuat untuk membantu pengguna dalam mencatat aktivitas keuangan harian mereka, baik pengeluaran maupun pemasukan. Aplikasi ini juga menyediakan laporan bulanan, mingguan, dan tahunan, sehingga pengguna dapat melacak dan mengelola keuangan mereka dengan lebih baik.
 
-## Fitur Aplikasi
+# Fitur Aplikasi
 1. **Pencatatan Aktivitas Keuangan**: Catat pengeluaran dan pemasukan harian.
 2. **Hitung Balance**: Secara otomatis menghitung selisih antara pemasukan dan pengeluaran.
 3. **Laporan Aktivitas Keuangan**: Lihat laporan keuangan harian, bulanan, mingguan, dan tahunan.
@@ -18,33 +9,12 @@ Aplikasi Catatan Keuangan ini dibuat untuk membantu pengguna dalam mencatat akti
 5. **Grafik Pie Chart**: Visualisasi data keuangan dengan grafik pie chart.
 6. **Pencarian Transaksi**: Fitur pencarian untuk menemukan transaksi tertentu dengan mudah.
 
-## Teknologi yang Digunakan
+# Teknologi yang Digunakan
 - **Flutter**: Framework utama untuk pengembangan aplikasi mobile.
 - **Dart**: Bahasa pemrograman yang digunakan bersama Flutter.
-- **Supabase**: Untuk autentikasi, penyimpanan data, atau analitik (jika diimplementasikan).
 
-## Pembagian Tugas
-1. **Irfan Muria**
-   - Setup Project  
-   - Intro Screen  
-   - Input Name Screen  
-   - Home Screen 
-   - Input Screen 
-2. **Ricky Revanando**  
-   - History Screen  
-3. **Yogi Hafidh Maulana**  
-   - Statistik Screen
-   - Design System
-   - Config Database
-4. **Ganesha R. Gibran**
-   - Sub Category Screen
-5. **Satria Ariq A. D.**
-   - Settings Screen  
-
-## Cara Memulai
+# Cara Memulai
 Proyek ini adalah titik awal untuk aplikasi Flutter.
-
-### Langkah-langkah
 1. **Clone Repository**:
    ```bash
    git clone https://github.com/irpanzy/Aplikasi-Catatan-Keuangan.git
@@ -80,10 +50,6 @@ Proyek ini adalah titik awal untuk aplikasi Flutter.
 - `material_symbols_icons: ^4.2800.2`
 - `dropdown_button2: ^2.3.9`
 - `get: ^4.6.6`
-
-## Sumber Daya Tambahan
-- [Flutter Documentation](https://flutter.dev/docs): Dokumentasi resmi Flutter.
-- [Cookbook: Useful Flutter Samples](https://flutter.dev/docs/cookbook): Contoh kode dan tutorial untuk Flutter.
 
 ## Lisensi
 Proyek ini menggunakan lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini dengan menyertakan atribusi kepada pengembang asli.
