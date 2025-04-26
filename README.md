@@ -43,7 +43,7 @@ Proyek ini adalah titik awal untuk aplikasi Flutter.
    flutter run
    ```
 
-## Package yang Digunakan
+# Package yang Digunakan
 - `syncfusion_flutter_charts: ^27.1.58`
 - `cupertino_icons: ^1.0.8`
 - `intl: ^0.19.0`
@@ -51,7 +51,12 @@ Proyek ini adalah titik awal untuk aplikasi Flutter.
 - `dropdown_button2: ^2.3.9`
 - `get: ^4.6.6`
 
-## Lisensi
+# Documentation
+![Kelompok 3  Save Money (2)](https://github.com/user-attachments/assets/b6a69dc4-be27-4942-94e3-8d2c18a7a833)
+![Kelompok 3  Save Money](https://github.com/user-attachments/assets/d72ddc93-57f5-4886-b70d-dfc81946b39f)
+![Kelompok 3  Save Money (1)](https://github.com/user-attachments/assets/d0c0a7f8-815e-4c64-ab73-02f0cb5267d2)
+
+
 Proyek ini menggunakan lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan proyek ini dengan menyertakan atribusi kepada pengembang asli.
 
 ---
